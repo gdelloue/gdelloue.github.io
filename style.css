@@ -1,0 +1,28 @@
+html, body {
+	margin:0px;
+	padding:0px;
+	height:100%;
+	width:100%;
+}
+
+/* =============== COLORS ================== */
+
+.red {color:#F00;}
+.white {color:#FFF;}
+.blue {color:#039;}
+
+/* ======END========= COLORS =========END========= */
+
+h1 {font-size:4.4em;font-family: 'Sintony', sans-serif;}
+h2 {font-size:2em;font-family: 'Sintony', sans-serif;}
+h4 {font-size:1em;font-family: 'Doppio One', sans-serif; font-weight:lighter;}
+/* =============== CONTAINERS ================== */
+
+
+body {
+	background-image:url(images/guillaume_reg.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+}
+
